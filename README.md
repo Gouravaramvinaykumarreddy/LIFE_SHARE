@@ -6,7 +6,6 @@
 LifeShare is a secure, real-time platform that lets verified hospitals share life-critical resources — organs, medical equipment, and blood units — across a connected network, cutting the time it takes to find what a patient urgently needs.
 
 [![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)](#)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](#-license)
 [![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](#)
@@ -26,7 +25,6 @@ LifeShare is a secure, real-time platform that lets verified hospitals share lif
 - [Getting Started](#-getting-started)
 - [Future Scope](#-future-scope)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -196,10 +194,6 @@ git checkout -b feature/your-feature-name
 git commit -m "Add: your feature"
 git push origin feature/your-feature-name
 ```
-
-## 📜 License
-
-Licensed under the [MIT License](#).
 
 ---
 
